@@ -1,0 +1,69 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{Khan2016}{article}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,uniquepart=base,hash=c2ed5ee041b934191aea58000c574a1b}{%
+           family={Khan},
+           familyi={K\bibinitperiod},
+           given={Rijwan},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=468884c31c840fa68c3e823e30733e91}{%
+           family={Amjad},
+           familyi={A\bibinitperiod},
+           given={Mohd},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier {BV}}%
+      }
+      \strng{namehash}{1bcffb96961bccba9af200eb9f68fc8b}
+      \strng{fullhash}{1bcffb96961bccba9af200eb9f68fc8b}
+      \strng{bibnamehash}{1bcffb96961bccba9af200eb9f68fc8b}
+      \strng{authorbibnamehash}{1bcffb96961bccba9af200eb9f68fc8b}
+      \strng{authornamehash}{1bcffb96961bccba9af200eb9f68fc8b}
+      \strng{authorfullhash}{1bcffb96961bccba9af200eb9f68fc8b}
+      \field{sortinit}{K}
+      \field{sortinithash}{d3edc18d54b9438a72c24c925bfb38f4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Perspectives in Science}
+      \field{month}{9}
+      \field{title}{Performance testing (load) of web applications based on test case management}
+      \field{volume}{8}
+      \field{year}{2016}
+      \field{pages}{355\bibrangedash 357}
+      \range{pages}{3}
+      \verb{doi}
+      \verb 10.1016/j.pisc.2016.04.073
+      \endverb
+      \verb{file}
+      \verb :/home/user/Documents/3_Semester/infrastruktur/literaturrecherche/1-s2.0-S2213020916300957-main.pdf:PDF
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

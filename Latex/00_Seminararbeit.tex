@@ -1,0 +1,142 @@
+\documentclass[a4paper,12pt]{scrreprt}%Dokumentklasse
+\usepackage[left=4cm, right=2cm, top=2.8cm, bottom=2cm,
+	includehead=true, % Kopfzeile innerhalb des Textkörper, also nicht im Rand
+    includefoot=false, % muss true gesetzt werden, wenn eine Fußzeile genutzt wird!!
+    %showframe,%Anzeigen der Frames für das Messen
+    bindingoffset=0mm]{geometry}
+    
+\renewcommand{\footnotesize}{\fontsize{10}{10} \selectfont}%schriftgröße der Fußziele  
+    
+\usepackage[onehalfspacing]{setspace}
+% ============= Packages =============
+
+% Dokumentinformationen
+\usepackage[
+	pdftitle={Serverlastreduzierung durch Angular},
+	pdfsubject={},
+	pdfauthor={Ingo Sewcz},
+	pdfkeywords={Angular, PHP, Serverlastreduzierung},	
+	%Links nicht einrahmen
+	hidelinks
+]{hyperref}
+
+
+% Standard Packages
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx, subfig}
+\graphicspath{{img/}}
+\usepackage[
+  automark,
+  autooneside=false,% <- needed if you want to use \leftmark and \rightmark in a onesided document
+  headsepline
+]{scrlayer-scrpage}
+\usepackage{lmodern}
+\usepackage{color}
+
+
+% zusätzliche Schriftzeichen der American Mathematical Society
+\usepackage{amsfonts}
+\usepackage{amsmath}
+
+%nicht einrücken nach Absatz
+\setlength{\parindent}{0pt}
+%Aber Abstand zwischen Absätzen
+\setlength{\parskip}{12pt}
+
+
+%Zitation
+\usepackage[backend=biber, style=authoryear]{biblatex}
+\usepackage[babel, german=quotes]{csquotes}
+\setlength{\bibitemsep}{12pt}
+\addbibresource{Literatur.bib}
+%Zietert wird dann an der gewünschten Stelle wie folgt:
+%\parencite[vgl.][S.60]{mueller2000}
+%\cite[vgl.][S.60]{mueller2000}
+
+% ============= Kopf- und Fußzeile =============
+\clearpairofpagestyles
+\ihead{\leftmark}%LINKS
+\chead{}%MITTE
+\ohead{\thepage}%RECHTS
+\renewcommand*{\headfont}{\normalfont}
+\pagestyle{scrheadings}
+\renewcommand*{\chapterpagestyle}{scrheadings} 
+
+\RedeclareSectionCommands[
+  beforeskip=-.5\baselineskip,
+  afterskip=.25\baselineskip
+]{chapter,section,subsection,subsubsection}
+\RedeclareSectionCommands[
+  beforeskip=.5\baselineskip,
+  afterskip=-1em]{paragraph,subparagraph}
+
+% ============= Package Einstellungen & Sonstiges ============= 
+%Besondere Trennungen
+\hyphenation{De-zi-mal-tren-nung}
+
+
+% ============= Dokumentbeginn =============
+
+\begin{document}
+%Seiten ohne Kopf- und Fußzeile sowie Seitenzahl
+\pagestyle{empty}
+%Seitennummerierung auf Römisch umstellen
+\pagenumbering{Roman}
+
+\include{01_deckblatt}
+
+\include{02_danksagungen_sperrvermerk}
+
+\include{03_zusammenfassung}
+
+% Beendet eine Seite und erzwingt auf den nachfolgenden Seiten die Ausgabe aller Gleitobjekte (z.B. Abbildungen), die bislang definiert, aber noch nicht ausgegeben wurden. Dieser Befehl fügt, falls nötig, eine leere Seite ein, sodaß die nächste Seite nach den Gleitobjekten eine ungerade Seitennummer hat. 
+\cleardoubleoddpage
+
+% pagestyle für gesamtes Dokument aktivieren
+\pagestyle{scrheadings}
+
+%Inhaltsverzeichnis
+\tableofcontents
+
+%Verzeichnis aller Bilder
+\newpage
+\addcontentsline{toc}{section}{Abbildungsverzeichnis}
+\listoffigures
+
+%Verzeichnis aller Tabellen
+\newpage
+\addcontentsline{toc}{section}{Tabellenverzeichnis}
+\listoftables
+
+\newpage
+%Seitennummerierung auf Arabisch umstellen
+\pagenumbering{arabic}
+
+\include{04_einleitung}
+
+\include{05_grundlagen}
+
+\include{06_standdertechnik}
+
+\include{07_methoden}
+
+\include{08_ergebnisse}
+
+\include{09_diskussion}
+
+%Literaturverzeichnis
+\newpage
+%\bibliographystyle{unsrt}
+%\bibliography{Literatur}
+%Ersetzt duch:
+\addcontentsline{toc}{section}{Literatur}
+\printbibliography 
+
+\newpage
+%Seiten ohne Kopf- und Fußzeile sowie Seitenzahl
+\pagestyle{empty}
+\include{10_eidesstattlicheErklaerung}
+
+\end{document}

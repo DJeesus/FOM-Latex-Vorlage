@@ -1,0 +1,11 @@
+Befehle für Latex:
+- Abbildungsgröße Passend machen, nicht zu klein oder zu groß jeweils immer beschreiben warum da
+- viele Quellenangaben
+- Ergebnisse nicht in den Methodikteil schreiben
+- Überschriften müssen zum Text passen
+- Farben müssen sich unterscheiden
+- Hinschreiben dass man etwas bewusst nicht betrachtet wird
+- Optionen in TexMaker -> Optionen -> Texmaker konfigurieren:
+	- Befehle: Bib(la)tex -> "biber" %
+	- Schnelles Übersetzen: 2. Wählen: PdfLaTeX + Bib(la)tex + PdfLaTeX (x2) + PDF anzeigen
+- Zitation: Jabref (biblatex erstellen)

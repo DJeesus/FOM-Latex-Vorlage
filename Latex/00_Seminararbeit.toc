@@ -1,0 +1,34 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {ngerman}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Abbildungsverzeichnis}{VI}{chapter*.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Tabellenverzeichnis}{VII}{chapter*.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {1}Einleitung}{1}{chapter.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {2}Grundlagen}{2}{chapter.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.1}Beispielkapitel}{2}{section.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2.2}Beispielunterkapitel}{4}{section.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {3}Stand der Technik}{5}{chapter.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.1}Klassifizierung von Beispielen}{5}{section.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3.2}Themenbezogene Ver\IeC {\"o}ffentlichungen}{5}{section.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {4}Entwicklung der Sensorik}{6}{chapter.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4.1}Grobkonzept der Sensorik}{6}{section.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {5}Ergebnisse}{7}{chapter.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{\numberline {6}Diskussion}{8}{chapter.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.1}Zusammenfassende Bewertung}{8}{section.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6.2}Ausblick}{8}{section.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Literatur}{9}{section.6.2}
