@@ -1,0 +1,1 @@
+pdflatex -synctex=1 -interaction=nonstopmode %.tex|"biber" %|pdflatex -synctex=1 -interaction=nonstopmode %.tex|pdflatex -synctex=1 -interaction=nonstopmode %.tex|xdg-open %.pdf|git --git-dir=./../.git/ --work-tree=./../ add --all|git --git-dir=./../.git/ --work-tree=./../ commit -m 'autocommit_texmaker'
