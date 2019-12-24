@@ -1,0 +1,327 @@
+% Encoding: UTF-8
+
+@Book{Buehler2018,
+  author    = {Bühler, Peter and Schlaich, Patrick and Sinner, Dominik},
+  date      = {2018-04-24},
+  title     = {Webtechnologien},
+  isbn      = {3662547295},
+  publisher = {Springer-Verlag GmbH},
+  url       = {https://www.ebook.de/de/product/31053880/peter_buehler_patrick_schlaich_dominik_sinner_webtechnologien.html},
+  comment   = {Katalog der ULB (https://katalogix.uni-muenster.de/Katalog/start.do): Da diese Werke sofort zur Verfügung stehen.
+Schlagwörter: PHP:},
+  ean       = {9783662547298},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/Bücher/2018_Book_Webtechnologien.pdf:PDF},
+  year      = {2018},
+}
+
+@Book{Bonacina2018,
+  author    = {Bonacina, Michael},
+  title     = {PHP und MySQL für Einsteiger},
+  isbn      = {9783966450096},
+  publisher = {BMU Media GmbH},
+  address   = {Landshut},
+  comment   = {Katalog der ULB (https://katalogix.uni-muenster.de/Katalog/start.do): Da diese Werke sofort zur Verfügung stehen.
+Schlagwörter: PHP:},
+  year      = {2018},
+}
+
+@Book{Weicker2015,
+  author    = {Weicker, Karsten},
+  date      = {2015-06-25},
+  title     = {Evolutionäre Algorithmen},
+  isbn      = {3658099577},
+  publisher = {Vieweg+Teubner Verlag},
+  url       = {https://www.ebook.de/de/product/24198849/karsten_weicker_evolutionaere_algorithmen.html},
+  comment   = {Katalog der ULB (https://katalogix.uni-muenster.de/Katalog/start.do): Da diese Werke sofort zur Verfügung stehen.
+Schlagwörter: algorithm:},
+  ean       = {9783658099572},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/Bücher/2015_Book_EvolutionÃ¤reAlgorithmen.pdf:PDF},
+  year      = {2015},
+}
+
+@Book{Hoeller2019,
+  author    = {Höller, Christoph},
+  date      = {2019-02-01},
+  title     = {Angular},
+  isbn      = {3836262932},
+  pagetotal = {977},
+  publisher = {Rheinwerk Verlag GmbH},
+  url       = {https://www.ebook.de/de/product/33684806/christoph_hoeller_angular.html},
+  comment   = {Katalog der ULB (https://katalogix.uni-muenster.de/Katalog/start.do): Da diese Werke sofort zur Verfügung stehen.
+Titelwörter: Angular:},
+  ean       = {9783836262934},
+  year      = {2019},
+}
+
+@Book{YakovFain2018,
+  author    = {Yakov Fain, Anton Moiseev},
+  date      = {2018-07-01},
+  title     = {Angular Development with TypeScript_p1},
+  isbn      = {1617295345},
+  pagetotal = {475},
+  publisher = {Manning},
+  url       = {https://www.ebook.de/de/product/30504240/yakov_fain_anton_moiseev_angular_development_with_typescript_p1.html},
+  comment   = {Katalog der ULB (https://katalogix.uni-muenster.de/Katalog/start.do): Da diese Werke sofort zur Verfügung stehen.
+Titelwörter: Angular:},
+  ean       = {9781617295348},
+  year      = {2018},
+}
+
+@Article{Kshirsagar2016,
+  author    = {Deepak Kshirsagar and Suraj Sawant and Amit Rathod and Sachin Wathore},
+  title     = {{CPU} Load Analysis {\&} Minimization for {TCP} {SYN} Flood Detection},
+  doi       = {10.1016/j.procs.2016.05.230},
+  pages     = {626--633},
+  volume    = {85},
+  comment   = {EBESCO Literaturrecherche:
+Schlagworte in der Suche: "load features server"},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/1-s2.0-S1877050916305786-main.pdf:PDF},
+  journal   = {Procedia Computer Science},
+  publisher = {Elsevier {BV}},
+  year      = {2016},
+}
+
+@Article{Khan2016,
+  author    = {Rijwan Khan and Mohd Amjad},
+  title     = {Performance testing (load) of web applications based on test case management},
+  doi       = {10.1016/j.pisc.2016.04.073},
+  pages     = {355--357},
+  volume    = {8},
+  comment   = {EBESCO Literaturrecherche:
+Schlagworte in der Suche: "software load test"},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/1-s2.0-S2213020916300957-main.pdf:PDF},
+  journal   = {Perspectives in Science},
+  month     = {sep},
+  publisher = {Elsevier {BV}},
+  year      = {2016},
+}
+
+@InProceedings{Chakravarty2010,
+  author    = {Anand Chakravarty},
+  booktitle = {2010 Seventh International Conference on Information Technology: New Generations},
+  title     = {Stress Testing an {AI} Based Web Service: A Case Study},
+  doi       = {10.1109/itng.2010.149},
+  publisher = {{IEEE}},
+  comment   = {EBESCO Literaturrecherche:
+Schlagworte in der Suche: "Stress Testing Software"},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/05501500.pdf:PDF},
+  year      = {2010},
+}
+
+@InProceedings{Chana,
+  author    = {H.A. Chan},
+  booktitle = {Annual Symposium Reliability and Maintainability, 2004 - {RAMS}},
+  date      = {2004},
+  title     = {Accelerated stress testing for both hardware and software},
+  doi       = {10.1109/rams.2004.1285473},
+  publisher = {{IEEE}},
+  comment   = {EBESCO Literaturrecherche:
+Schlagworte in der Suche: "Stress Testing Software"},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/01285473.pdf:PDF},
+}
+
+@InProceedings{Straub2016,
+  author    = {Jeremy Straub},
+  booktitle = {2016 {IEEE} Accelerated Stress Testing {\&} Reliability Conference ({ASTR})},
+  title     = {Accelerated stress {\&} reliability testing for software and cyber-physical systems},
+  doi       = {10.1109/astr.2016.7762263},
+  publisher = {{IEEE}},
+  comment   = {EBESCO Literaturrecherche:
+Schlagworte in der Suche: "Stress Testing Software"},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/07762263.pdf:PDF},
+  year      = {2016},
+}
+
+@Article{Sanders2013,
+  author       = {Peter Sanders and Dorothea Wagner},
+  date         = {2013},
+  journaltitle = {Informatik Spektrum},
+  title        = {Algorithm Engineering},
+  doi          = {10.1007/s00287-013-0679-y},
+  number       = {2},
+  pages        = {131--131},
+  volume       = {36},
+  comment      = {EBESCO Literaturrecherche:
+Schlagworte in der Suche: "stresstest algorithm"},
+  file         = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/Sanders-Wagner2013_Article_AlgorithmEngineering.pdf:PDF},
+  journal      = {Informatik-Spektrum},
+  month        = {feb},
+  publisher    = {Springer Science and Business Media {LLC}},
+  year         = {2013},
+}
+
+@Article{Maresova2016,
+  author    = {Petra Maresova and Vladimir Sobeslav and Ondrej Krejcar},
+  title     = {Cost{\textendash}benefit analysis {\textendash} evaluation model of cloud computing deployment for use in companies},
+  doi       = {10.1080/00036846.2016.1200188},
+  number    = {6},
+  pages     = {521--533},
+  volume    = {49},
+  comment   = {EBESCO Literaturrecherche:
+Suchworte: recource utilisation server},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/document.pdf:PDF},
+  journal   = {Applied Economics},
+  month     = {sep},
+  publisher = {Informa {UK} Limited},
+  year      = {2016},
+}
+
+@Book{Buehler2018,
+  author    = {Bühler, Peter and Schlaich, Patrick and Sinner, Dominik},
+  date      = {2018-04-24},
+  title     = {Webtechnologien},
+  isbn      = {3662547295},
+  publisher = {Springer-Verlag GmbH},
+  url       = {https://www.ebook.de/de/product/31053880/peter_buehler_patrick_schlaich_dominik_sinner_webtechnologien.html},
+  ean       = {9783662547298},
+  year      = {2018},
+}
+
+@Book{Bonacina2018,
+  author    = {Bonacina, Michael},
+  title     = {PHP und MySQL für Einsteiger},
+  isbn      = {9783966450096},
+  publisher = {BMU Media GmbH},
+  address   = {Landshut},
+  year      = {2018},
+}
+
+@Book{Weicker2015,
+  author    = {Weicker, Karsten},
+  date      = {2015-06-25},
+  title     = {Evolutionäre Algorithmen},
+  isbn      = {3658099577},
+  publisher = {Vieweg+Teubner Verlag},
+  url       = {https://www.ebook.de/de/product/24198849/karsten_weicker_evolutionaere_algorithmen.html},
+  ean       = {9783658099572},
+  year      = {2015},
+}
+
+@Book{Hoeller2019,
+  author    = {Höller, Christoph},
+  date      = {2019-02-01},
+  title     = {Angular},
+  isbn      = {3836262932},
+  pagetotal = {977},
+  publisher = {Rheinwerk Verlag GmbH},
+  url       = {https://www.ebook.de/de/product/33684806/christoph_hoeller_angular.html},
+  ean       = {9783836262934},
+  year      = {2019},
+}
+
+@Book{YakovFain2018,
+  author    = {Yakov Fain, Anton Moiseev},
+  date      = {2018-07-01},
+  title     = {Angular Development with TypeScript_p1},
+  isbn      = {1617295345},
+  pagetotal = {475},
+  publisher = {Manning},
+  url       = {https://www.ebook.de/de/product/30504240/yakov_fain_anton_moiseev_angular_development_with_typescript_p1.html},
+  comment   = {Katalog der ULB (https://katalogix.uni-muenster.de/Katalog/start.do): Da diese Werke sofort zur Verfügung stehen.
+Titelwörter: Angular:},
+  ean       = {9781617295348},
+  year      = {2018},
+}
+
+@Article{Kshirsagar2016,
+  author    = {Deepak Kshirsagar and Suraj Sawant and Amit Rathod and Sachin Wathore},
+  title     = {{CPU} Load Analysis {\&} Minimization for {TCP} {SYN} Flood Detection},
+  doi       = {10.1016/j.procs.2016.05.230},
+  pages     = {626--633},
+  volume    = {85},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/1-s2.0-S1877050916305786-main.pdf:PDF},
+  journal   = {Procedia Computer Science},
+  publisher = {Elsevier {BV}},
+  year      = {2016},
+}
+
+@Article{Khan2016,
+  author    = {Rijwan Khan and Mohd Amjad},
+  title     = {Performance testing (load) of web applications based on test case management},
+  doi       = {10.1016/j.pisc.2016.04.073},
+  pages     = {355--357},
+  volume    = {8},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/1-s2.0-S2213020916300957-main.pdf:PDF},
+  journal   = {Perspectives in Science},
+  month     = {sep},
+  publisher = {Elsevier {BV}},
+  year      = {2016},
+}
+
+@InProceedings{Chakravarty2010,
+  author    = {Anand Chakravarty},
+  booktitle = {2010 Seventh International Conference on Information Technology: New Generations},
+  title     = {Stress Testing an {AI} Based Web Service: A Case Study},
+  doi       = {10.1109/itng.2010.149},
+  publisher = {{IEEE}},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/05501500.pdf:PDF},
+  year      = {2010},
+}
+
+@InProceedings{Chana,
+  author    = {H.A. Chan},
+  booktitle = {Annual Symposium Reliability and Maintainability, 2004 - {RAMS}},
+  date      = {2004},
+  title     = {Accelerated stress testing for both hardware and software},
+  doi       = {10.1109/rams.2004.1285473},
+  publisher = {{IEEE}},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/01285473.pdf:PDF},
+}
+
+@InProceedings{Straub2016,
+  author    = {Jeremy Straub},
+  booktitle = {2016 {IEEE} Accelerated Stress Testing {\&} Reliability Conference ({ASTR})},
+  title     = {Accelerated stress {\&} reliability testing for software and cyber-physical systems},
+  doi       = {10.1109/astr.2016.7762263},
+  publisher = {{IEEE}},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/07762263.pdf:PDF},
+  year      = {2016},
+}
+
+@Article{Sanders2013,
+  author       = {Peter Sanders and Dorothea Wagner},
+  date         = {2013},
+  journaltitle = {Informatik Spektrum},
+  title        = {Algorithm Engineering},
+  doi          = {10.1007/s00287-013-0679-y},
+  number       = {2},
+  pages        = {131--131},
+  volume       = {36},
+  file         = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/Sanders-Wagner2013_Article_AlgorithmEngineering.pdf:PDF},
+  journal      = {Informatik-Spektrum},
+  month        = {feb},
+  publisher    = {Springer Science and Business Media {LLC}},
+  year         = {2013},
+}
+
+@Article{Maresova2016,
+  author    = {Petra Maresova and Vladimir Sobeslav and Ondrej Krejcar},
+  title     = {Cost{\textendash}benefit analysis {\textendash} evaluation model of cloud computing deployment for use in companies},
+  doi       = {10.1080/00036846.2016.1200188},
+  number    = {6},
+  pages     = {521--533},
+  volume    = {49},
+  journal   = {Applied Economics},
+  month     = {sep},
+  publisher = {Informa {UK} Limited},
+  year      = {2016},
+}
+
+@Book{Gilmore2010,
+  author    = {Gilmore, W. Jason},
+  date      = {2010-09-24},
+  title     = {Beginning PHP and MySQL},
+  isbn      = {1430231149},
+  pagetotal = {824},
+  publisher = {Apress},
+  url       = {https://www.ebook.de/de/product/12042101/w_jason_gilmore_beginning_php_and_mysql.html},
+  comment   = {Google Scholar Suche:
+Suchworte: "Beginning PHP"},
+  ean       = {9781430231141},
+  file      = {:/home/user/Documents/3_Semester/infrastruktur/IT-Infrastruktur-Seminararbeit/literaturrecherche/Bücher/2010_Book_BeginningPHPAndMySQL.pdf:PDF},
+  year      = {2010},
+}
+
+@Comment{jabref-meta: databaseType:biblatex;}
+
+@Comment{jabref-meta: fileDirectoryLatex-user-uni:/home/user/Documents/3_Semester/infrastruktur/seminararbeit;}
