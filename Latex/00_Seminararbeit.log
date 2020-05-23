@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.12.26)  23 MAY 2020 10:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.12.26)  23 MAY 2020 11:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -734,11 +734,10 @@ File: german.lbx 2018/03/04 v3.11 biblatex localization (PK/MW)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
 
-(./00_Seminararbeit.aux (./01_deckblatt.aux)
-(./02_danksagungen_sperrvermerk.aux) (./03_zusammenfassung.aux)
-(./04_einleitung.aux) (./05_grundlagen.aux) (./06_standdertechnik.aux)
-(./07_methoden.aux) (./08_ergebnisse.aux) (./09_diskussion.aux)
-(./10_eidesstattlicheErklaerung.aux))
+(./00_Seminararbeit.aux (./01_deckblatt.aux) (./04_einleitung.aux)
+(./05_grundlagen.aux) (./06_standdertechnik.aux) (./07_methoden.aux)
+(./08_ergebnisse.aux) (./09_diskussion.aux) (./10_eidesstattlicheErklaerung.aux
+))
 \openout1 = `00_Seminararbeit.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 82.
@@ -756,8 +755,7 @@ LaTeX Font Info:    ... okay on input line 82.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 82.
 LaTeX Font Info:    ... okay on input line 82.
 LaTeX Font Info:    Try loading font information for T1+lmr on input line 82.
-
-(/usr/share/texlive/texmf-dist/tex/latex/lm/t1lmr.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/lm/t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 *geometry* driver: auto-detecting
@@ -906,50 +904,37 @@ Package pdftex.def Info: img/fomlogo.png  used on input line 6.
 
 {/usr/share/texlive/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <./img/fomlo
 go.png>]
-\openout2 = `02_danksagungen_sperrvermerk.aux'.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 101.
 
-
-(./02_danksagungen_sperrvermerk.tex
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 1.
 
 (/usr/share/texlive/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) [2
-
-
-]) [3]
-\openout2 = `03_zusammenfassung.aux'.
-
-
-(./03_zusammenfassung.tex) [4
-
-
-] (./00_Seminararbeit.toc)
+) (./00_Seminararbeit.toc)
 \tf@toc=\write6
 \openout6 = `00_Seminararbeit.toc'.
 
- [5
+[2
 
 
 
 
-]
-(./00_Seminararbeit.lof)
+] (./00_Seminararbeit.lof)
 \tf@lof=\write7
 \openout7 = `00_Seminararbeit.lof'.
 
- [6
+ [3
 
 ] (./00_Seminararbeit.lot)
 \tf@lot=\write8
 \openout8 = `00_Seminararbeit.lot'.
 
- [7
+ [4
 
 ]
 \openout2 = `04_einleitung.aux'.
 
- (./04_einleitung.tex
+
+(./04_einleitung.tex
 chapter 1.
 ) [1
 
@@ -1027,24 +1012,23 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 142.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 142.
  (./00_Seminararbeit.aux
-(./01_deckblatt.aux) (./02_danksagungen_sperrvermerk.aux)
-(./03_zusammenfassung.aux) (./04_einleitung.aux) (./05_grundlagen.aux)
+(./01_deckblatt.aux) (./04_einleitung.aux) (./05_grundlagen.aux)
 (./06_standdertechnik.aux) (./07_methoden.aux) (./08_ergebnisse.aux)
 (./09_diskussion.aux) (./10_eidesstattlicheErklaerung.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 142.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 142.
 Package rerunfilecheck Info: File `00_Seminararbeit.out' has not changed.
-(rerunfilecheck)             Checksum: D8A985CFE371011A32900EF44FF86CD5;946.
+(rerunfilecheck)             Checksum: E36FD2B846A84165EF424EFB0A4DA479;946.
 Package logreq Info: Writing requests to '00_Seminararbeit.run.xml'.
 \openout1 = `00_Seminararbeit.run.xml'.
 
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 142.
  ) 
 Here is how much of TeX's memory you used:
- 19377 strings out of 494558
- 358356 string characters out of 6176377
- 978933 words of memory out of 5000000
- 22657 multiletter control sequences out of 15000+600000
+ 19349 strings out of 494558
+ 357744 string characters out of 6176377
+ 973860 words of memory out of 5000000
+ 22649 multiletter control sequences out of 15000+600000
  80222 words of font info for 65 fonts, out of 8000000 for 9000
  17 hyphenation exceptions out of 8191
  53i,20n,75p,9150b,2180s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1057,10 +1041,10 @@ ive/texmf-dist/fonts/type1/public/lm/lmr8.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/lm/lmri12.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/lm/lmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/lm/lmtt12.p
 fb>
-Output written on 00_Seminararbeit.pdf (17 pages, 244074 bytes).
+Output written on 00_Seminararbeit.pdf (14 pages, 241646 bytes).
 PDF statistics:
- 239 PDF objects out of 1000 (max. 8388607)
- 206 compressed objects within 3 object streams
- 44 named destinations out of 1000 (max. 500000)
+ 222 PDF objects out of 1000 (max. 8388607)
+ 193 compressed objects within 2 object streams
+ 38 named destinations out of 1000 (max. 500000)
  134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
